@@ -63,11 +63,11 @@ I am a seasoned software developer with 10 years of experience specializing in S
 
 ## 📜 Certifications
 
-- [AWS Certified Solutions Architect]([https://www.credly.com/earner/earned/badge/75ed0e56-cf71-4920-b9ef-7bacbea41cda](https://www.credly.com/badges/75ed0e56-cf71-4920-b9ef-7bacbea41cda/public_url)) - _2021_
+- [AWS Certified Solutions Architect](https://www.credly.com/earner/earned/badge/75ed0e56-cf71-4920-b9ef-7bacbea41cda](https://www.credly.com/badges/75ed0e56-cf71-4920-b9ef-7bacbea41cda/public_url) - _2021_
 - [Microsoft Azure AI Fundamentals]() - _2023_
-- [Data Analytics Essentials from Cisco]([https://www.credly.com/earner/earned/badge/7dfb55b1-87c5-43da-ac87-36b57664c670](https://www.credly.com/badges/7dfb55b1-87c5-43da-ac87-36b57664c670/public_url))
-- [Python Essentials 1 from Cisco]([https://www.credly.com/earner/earned/badge/73c80739-7925-4780-bca5-fd60e3c52f45](https://www.credly.com/badges/73c80739-7925-4780-bca5-fd60e3c52f45/public_url))
-- [Python Essentials 2 from Cisco]([https://www.credly.com/earner/earned/badge/f48932aa-cc5d-4b8f-830a-004e7481b4af](https://www.credly.com/badges/f48932aa-cc5d-4b8f-830a-004e7481b4af/public_url))
+- [Data Analytics Essentials from Cisco](https://www.credly.com/earner/earned/badge/7dfb55b1-87c5-43da-ac87-36b57664c670](https://www.credly.com/badges/7dfb55b1-87c5-43da-ac87-36b57664c670/public_url)
+- [Python Essentials 1 from Cisco](https://www.credly.com/earner/earned/badge/73c80739-7925-4780-bca5-fd60e3c52f45](https://www.credly.com/badges/73c80739-7925-4780-bca5-fd60e3c52f45/public_url)
+- [Python Essentials 2 from Cisco](https://www.credly.com/earner/earned/badge/f48932aa-cc5d-4b8f-830a-004e7481b4af](https://www.credly.com/badges/f48932aa-cc5d-4b8f-830a-004e7481b4af/public_url)
 
 
 
