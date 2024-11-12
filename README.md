@@ -59,7 +59,7 @@ I am a seasoned software developer with 10 years of experience specializing in S
 
 ## 📚 Education
 
-**Bachelors of Engineering in Electronics and Communication Engineering**   | _Anna University – 2013_
+**Bachelor of Engineering in Electronics and Communication Engineering**   | _Anna University – 2013_
 
 ## 📜 Certifications
 
