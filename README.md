@@ -1,7 +1,13 @@
 
 # Nelson Selvam
 
+## 💭 My Coding Philosophy
+> "What we code now, echoes into maintainability and future releases."
+
+This principle drives my approach to software development - focusing on clean, maintainable code that stands the test of time.
+
 **Java Microservices Developer | Senior Software Engineer**  
+
 📌  _Bristol, CT_   
 💼  _[Mphasis Corporation](https://www.mphasis.com/home.html), Senior Software Engineer_      
 🌐  [Nelson Selvam](https://www.linkedin.com/in/nelsonselvam/) | [Mail Me](mailto:pvselvam.nelson@gmail.com)
