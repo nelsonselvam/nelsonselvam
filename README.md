@@ -2,10 +2,8 @@
 
 # NELSON SELVAM
 
-**Java Microservices Developer | Senior Software Engineer**  
-
-📌  _Bristol, CT_   
-💼  Senior Software Engineer_      
+**Back-end Engineer | Java Microservices Developer**                      
+📌  _Bristol, CT_                     
 🌐  [LinkedIn](https://www.linkedin.com/in/nelsonselvam/) | [Mail Me](mailto:pvselvam.nelson@gmail.com)
 
 ## 🧑‍💻 ABOUT ME
@@ -16,7 +14,7 @@ Senior Software Engineer with 10+ years of experience architecting enterprise Ja
 
 - `Programming Languages`: Java 8+, Python, JavaScript, SQL, PL/SQL
 - `Backend Frameworks`: Spring Boot, Spring Batch, Spring JDBC, Spring Security, Flask
-- `Frontend Technologies`: React JS, HTML5, CSS3, NPM
+- `Frontend Technologies`: React JS, HTML5, CSS3, NodeJS
 - `Databases`: Oracle, PostgreSQL, Snowflake
 - `Cloud Platforms`: AWS (Lambda, S3, EC2, RDS), Microsoft Azure
 - `DevOps & Tools`: Maven, Jenkins, Git, GitHub, Docker, CI/CD
