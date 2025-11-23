@@ -26,7 +26,7 @@ Senior Software Engineer with 10+ years of experience architecting enterprise Ja
 
 ## 📈 EXPERIENCE
 
-### Mphasis, India/USA (Deployed at Corebridge Financial – Fortune 500 Insurance Client, formerly part of AIG)	  &nbsp;&nbsp;&nbsp;&nbsp;  05/2014 to Till Date 
+### Mphasis, India/USA (Deployed at a Fortune 500 Insurance Client)	  &nbsp;&nbsp;&nbsp;&nbsp;  05/2014 to Till Date 
 #### Senior Software Engineer (Java Full Stack Development) |						                    03/2019 - Present <br>
 •	Architected 15+ RESTful APIs with comprehensive OAS documentation and sequence diagrams, presented in design reviews to ensure adherence to enterprise standards <br>
 •	Developed and maintained Spring Boot applications connecting to diverse databases (Oracle, PostgreSQL, Snowflake, Cassandra) using Spring Batch & JDBC, supporting critical business workflows and steady transaction volumes. <br>
